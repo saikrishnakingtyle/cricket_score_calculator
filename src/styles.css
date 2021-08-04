@@ -2,3 +2,29 @@
   font-family: sans-serif;
   text-align: center;
 }
+input {
+  height: 20px;
+  width: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.inputContainer {
+  background-color: greenyellow;
+  width: 300px;
+  margin: auto;
+  border-radius: 10px;
+}
+.inputDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+button {
+  margin-top: 5px;
+  margin-left: 20px;
+  background-color: goldenrod;
+  border-radius: 5px;
+  border: none;
+  height: 20px;
+  margin-bottom: 10px;
+}
